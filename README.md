@@ -1,5 +1,5 @@
 # Weather_Web
-<p> Enable users to get instant alerts regarding weather conditions. it's simplest way to know about the upcoming weather.</p>
+<p> Enable users to get instant alerts regarding weather conditions. it's simplest way to know about the upcoming weather. you can check weather of your city on just one click </p>
 <p> Teck Stack</p>
 <ul>
 <li>HTML</li>
